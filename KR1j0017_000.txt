@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 急就篇
-#+DATE: 2015-09-23 09:41:10
+#+DATE: 2015-09-11 23:42:48.756797
+#+PROPERTY: ID KR1j0017
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB05n0581-000急就篇-序.
 <pb:KR1j0017_SBCK_000-1a>¶
 　急就篇注叙¶
 　　　　祕書監弘文舘學士上護軍琅邪縣開國子顔師古撰¶
@@ -34,6 +38,8 @@
 　識隨而音之别理兼通亦即並載可以祛發未¶
 　寤矯正前失振幽翳之學攄制&KR0274;之意庶將來¶
 　君子裁其&KR0168;焉¶
+#+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB05n0581-000急就篇-文.
 <pb:KR1j0017_SBCK_000-3a>¶
 　急就篇¶
 　　　　　　　　　　　　漢黄門令史游　譔¶
@@ -1289,4 +1295,3 @@
 (野無&KR0046;逸皆升朝也慱士者多/聞之士先生謂老成之人也)¶
 　長樂無極老復丁¶
 (擊壤行歌喜寛政也老復丁者家/有高年則蠲其子孫免賦役也)¶
-
