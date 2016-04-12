@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 急就篇
-#+DATE: 2016-04-12 14:31:00.803404
+#+DATE: 2016-04-12 14:31:01.024843
 #+PROPERTY: ID KR1j0017
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1j0017_WYG_000-1a>¶
 　　欽定四庫全書　　　　　經部十¶

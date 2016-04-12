@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 急就篇
-#+DATE: 2016-04-12 14:31:00.807111
+#+DATE: 2016-04-12 14:31:01.042348
 #+PROPERTY: ID KR1j0017
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR1j0017_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -481,7 +481,7 @@
 ¶
 　　祝恭敬¶
 ¶
-　　祝氏鄭祝&KR0389;(乃甘反)之後也又衛有祝鮀(徒何反)後嗣傳¶
+　　祝氏鄭祝𥅆(乃甘反)之後也又衛有祝鮀(徒何反)後嗣傳¶
 職賢而有識亦稱祝氏恭敬謂不忘恭敬慕趙盾也¶
 ¶
 　　審毋妨(毋音無一作無妨敷方反害也)¶
